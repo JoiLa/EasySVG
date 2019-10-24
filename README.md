@@ -50,7 +50,7 @@ Array
 
 
 
-##二、使用指定的SVG字库
+## 二、使用指定的SVG字库
 &emsp;&emsp;若是您想生成独具风格的字体格式，请在这个网址(https://convertio.co/zh/ttf-svg/)将您自己的喜欢的“TTF”字体转换至“SVG”矢量字库即可，然后将“SVG”矢量字库移动到“font”文件夹下即可。
 ```php
  require_once( '../src/EasySVG.php' );
@@ -77,8 +77,8 @@ Array
         print_r( $e->getMessage() );
     }
 ```
+
 ## 三、我想吐槽
-####
 Email:joi_la@qq.com
 ## 四、结语
 
