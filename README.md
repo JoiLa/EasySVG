@@ -21,8 +21,8 @@ require_once( '../src/EasySVG.php' );
         print_r( $e->getMessage() );
     }
 ```
-###示例效果
-----
+### 示例效果
+
 ![示例](./src/img/1.png)
 
 ```text
