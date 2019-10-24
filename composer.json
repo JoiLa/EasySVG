@@ -1,0 +1,13 @@
+{
+    "name": "joila/easysvg",
+    "description": "PHP Create For Vefifcation Code",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LiAng",
+            "email": "joi_la@qq.com"
+        }
+    ],
+    "require": {}
+}
